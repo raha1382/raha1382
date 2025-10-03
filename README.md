@@ -34,10 +34,10 @@ I enjoy solving challenging problems, working on **theory & research**, and cont
 
 ## 🚀 Featured Projects  
 
-- [**ADHD Ml-Analyzer**](#) – Machine learning model for ADHD recognition using Python, scikit-learn, pandas, and matplotlib.  
-- [**QR-Handwriting-Detection**](#) – detects and decodes QR codes from handwritten images
-- [**Space Invaders Game**](#) – Developed in C++ & Qt as an advanced programming final project.  
-- [**PageRankAlgorithm**](#) – Using the PageRank algorithm to rank web pages based on their link structure, simulating how Google's original algorithm measures importance.
+- [**ADHD Ml-Analyzer**](https://github.com/raha1382/ADHD-Ml-Analyzer) – Machine learning model for ADHD recognition using Python, scikit-learn, pandas, and matplotlib.  
+- [**QR-Handwriting-Detection**](https://github.com/raha1382/QR-Handwriting-Detection) – detects and decodes QR codes from handwritten images
+- [**Space-Invaders-Game**](https://github.com/raha1382/Space-Invaders-Game) – Developed in C++ & Qt as an advanced programming final project.  
+- [**PageRankAlgorithm**](https://github.com/raha1382/PageRankAlgorithm) – Using the PageRank algorithm to rank web pages based on their link structure, simulating how Google's original algorithm measures importance.
 
 
 
