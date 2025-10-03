@@ -34,12 +34,10 @@ I enjoy solving challenging problems, working on **theory & research**, and cont
 
 ## 🚀 Featured Projects  
 
-- [**ADHD Detection Model**](#) – Machine learning model for ADHD recognition using Python, scikit-learn, pandas, and matplotlib.  
-- [**GNN Project**](#) – Graph Neural Network applied on Zachary’s Karate Club dataset with node2vec and NetworkX.  
-- [**Geometric A* Algorithm**](#) – Implementation of an improved A* algorithm for AGV path planning based on research paper.  
-- [**AI Pacman Project**](#) – Adversarial AI algorithms implemented in UC Berkeley’s Pacman environment.  
-- [**Space Invader Game**](#) – Developed in C++ & Qt as an advanced programming final project.  
-- [**Preprocessing Apartment Rent Dataset**](#) – Statistical preprocessing and visualization with Python (NumPy, pandas, matplotlib).  
+- [**ADHD Ml-Analyzer**](#) – Machine learning model for ADHD recognition using Python, scikit-learn, pandas, and matplotlib.  
+- [**QR-Handwriting-Detection**](#) – detects and decodes QR codes from handwritten images
+- [**Space Invaders Game**](#) – Developed in C++ & Qt as an advanced programming final project.  
+- [**PageRankAlgorithm**](#) – Using the PageRank algorithm to rank web pages based on their link structure, simulating how Google's original algorithm measures importance.
 
 
 
