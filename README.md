@@ -1,5 +1,5 @@
 # Hi, I'm Raha Kariminia 👋  
-🎓 `Bachelor’s Student in Computer Science`
+🎓 `Bachelor Student in Computer Science`
 
 🤖 `AI & Machine Learning Enthusiast`
 
